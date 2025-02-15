@@ -1,0 +1,10 @@
+numpy
+joblib
+scikit-learn
+Flask
+requests
+matplotlib
+pandas
+seaborn
+statsmodels
+joblib
